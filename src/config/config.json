@@ -1,0 +1,10 @@
+{
+    "port-no": 5000,
+    "db-details": {
+        "db-host": "localhost",
+        "db-pass": "pinku",
+        "db-user": "root",
+        "db-name": "TestSeries"
+    }
+
+}
